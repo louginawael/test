@@ -1,2 +1,1 @@
-print("ahmed hossam")
-
+print("ahmed")
